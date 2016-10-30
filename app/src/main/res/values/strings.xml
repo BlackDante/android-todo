@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList App</string>
+    <string name="add_todo_label">Add Todo Item:</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="remove_todo_label">Delete</string>
+    <string-array name="todos_array">
+        <item>Android application</item>
+    </string-array>
+</resources>
